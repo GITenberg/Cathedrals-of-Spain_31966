@@ -1,0 +1,28 @@
+_repo: Cathedrals-of-Spain_31966
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31966-h/images/ill_cover_th.jpg
+creator:
+  author:
+    agent_name: Gade, John A. (John Allyne)
+    alias: Gade, John Allyne
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '35578'
+    url: http://www.gutenberg.org/2009/agents/35578
+description: ''
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31966'
+  lccn: '11005195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cathedrals -- Spain'
+- !lcc 'NA'
+title: Cathedrals of Spain
+url: http://www.gutenberg.org/ebooks/31966
